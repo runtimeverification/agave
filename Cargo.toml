@@ -111,7 +111,6 @@ members = [
     "svm-transaction",
     "svm-type-overrides",
     "syscalls",
-    "syscalls/gen-syscall-list",
     "test-validator",
     "thread-manager",
     "tls-utils",

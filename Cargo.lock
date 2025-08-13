@@ -3078,13 +3078,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "gen-syscall-list"
-version = "3.0.0"
-dependencies = [
- "regex",
-]
-
-[[package]]
 name = "generator"
 version = "0.8.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
